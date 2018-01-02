@@ -18,10 +18,9 @@
     <!-- build:css styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
     <!-- endbuild -->
-    <link href="https://file.myfontastic.com/VhuCWg7V4n8TRLfs59XKUn/icons.css" rel="stylesheet">
-    <!-- build:js scripts/vendor/modernizr.js -->
 
-    <!-- endbuild -->
+    <link href="https://file.myfontastic.com/VhuCWg7V4n8TRLfs59XKUn/icons.css" rel="stylesheet">
+
   </head>
   <body>
     <!--[if IE]>
@@ -296,18 +295,19 @@
 
     <!-- build:js scripts/vendor.js -->
     <!-- bower:js -->
-
+    <script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="/bower_components/modernizr/modernizr.js"></script>
+    <script src="/bower_components/popper.js/dist/umd/popper.js"></script>
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
     <!-- build:js scripts/main.js -->
-    <script src="../bower_components/jquery/dist/jquery.js"></script>
-    <script src="../bower_components/modernizr/modernizr.js"></script>
-    <script src="../bower_components/popper.js/dist/umd/popper.js"></script>
-    <script src="../bower_components/bootstrap/dist/js/bootstrap.js"></script>
     <script src="scripts/main.js"></script>
     <!-- endbuild -->
+    <!-- build:js scripts/datafetch.js -->
     <script src="scripts/datafetch.js" async></script>
+    <!-- endbuild -->
 
   </body>
 </html>
