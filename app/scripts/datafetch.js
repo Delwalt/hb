@@ -1,7 +1,7 @@
 
 var lowerFoldContainer = $('#lowerFold');
 var ourRequest = new XMLHttpRequest();
-ourRequest.open('GET', 'http://api.hellobanswara.com/news.php');
+ourRequest.open('GET', '../data.json');
 
 ourRequest.onload = function(){
   var ourNews = JSON.parse(ourRequest.responseText);
@@ -16,7 +16,7 @@ function renderNewsCards(data){
   var i;
 
 
-  for(i = 0; i < 5; i++){
+  for(i = 0; i < 4; i++){
     newsCards += '<div class="col-md-6 col-lg-3">\n' +
       '                  <div class="news-card">\n' +
       '\n' +
