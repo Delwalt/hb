@@ -33,7 +33,9 @@
 mark, .mark {
   background-color: rgba(254, 255, 213, 0.62);
 }
-
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-weight: 600;
+}
 
 /**
  * Fonts Import
@@ -63,8 +65,14 @@ $primary-color: #ea4235;
 /**
  * Containers - #main
  */
+.f-hindi{
+  font-family: 'Mukta', sans-serif;
+}
 main{
   padding: 56px 25px 0;
+  &>.container-fluid>section{
+    margin-bottom:30px;
+  }
 }
 @media screen and (max-width:574px) {
   .px-xs-0{
@@ -477,6 +485,20 @@ i{
     }
   }
 
+  .news-card._default{
+    ._news-details-box{
+      display: flex;
+      flex-wrap: wrap;
+      height: 140px;
+      overflow: hidden;
+      ._news-title{
+        min-height: 45px;
+      }
+      ._news-details{
+        font-size: 15px;
+      }
+    }
+  }
 }
 
   @media screen and (max-width: 767px) {
