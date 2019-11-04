@@ -11,7 +11,7 @@
             starCandidates: [
                 {
                     name: 'Tarun Khandelwal',
-                    profileUrl: '',
+                    profileUrl: 'a',
                     profilePicUrl: '/images/electionProfilePic.png',
                     vard: 'Vard 1',
                     party: 'BJP',
@@ -20,7 +20,7 @@
                 },
                 {
                     name: 'Khandelwal',
-                    profileUrl: '',
+                    profileUrl: 'a',
                     profilePicUrl: '/images/electionProfilePic.png',
                     vard: 'Vard 1',
                     party: 'BJP',
@@ -31,7 +31,7 @@
             winnerCandidates: [
                 {
                     name: 'Tarun Khandelwal',
-                    profileUrl: '',
+                    profileUrl: 'a',
                     profilePicUrl: '/images/electionProfilePic.png',
                     vard: 'Vard 1',
                     party: 'BJP',
@@ -40,7 +40,7 @@
                 },
                 {
                     name: 'Khandelwal',
-                    profileUrl: '',
+                    profileUrl: 'a',
                     profilePicUrl: '/images/electionProfilePic.png',
                     vard: 'Vard 1',
                     party: 'BJP',
@@ -51,13 +51,13 @@
             vardWise: [ {
                     vardInfo: {
                         no: 1,
-                        details: "",
+                        details: "a",
                         seat: "OBC Male"
                     },
                     candidates: [
                         {
                             name: 'Tarun Khandelwal',
-                            profileUrl: '',
+                            profileUrl: 'a',
                             profilePicUrl: '/images/electionProfilePic.png',
                             vard: 'Vard 1',
                             party: 'BJP',
@@ -66,7 +66,7 @@
                         },
                         {
                             name: 'Khandelwal',
-                            profileUrl: '',
+                            profileUrl: 'a',
                             profilePicUrl: '/images/electionProfilePic.png',
                             vard: 'Vard 1',
                             party: 'BJP',
@@ -84,7 +84,7 @@
                     candidates: [
                         {
                             name: 'Tarun Khandelwal',
-                            profileUrl: '',
+                            profileUrl: 'a',
                             profilePicUrl: '/images/electionProfilePic.png',
                             vard: 'Vard 1',
                             party: 'BJP',
@@ -93,7 +93,7 @@
                         },
                         {
                             name: 'Khandelwal',
-                            profileUrl: '',
+                            profileUrl: 'a',
                             profilePicUrl: '/images/electionProfilePic.png',
                             vard: 'Vard 1',
                             party: 'BJP',
@@ -102,7 +102,7 @@
                         },,
                         {
                             name: 'Lorem',
-                            profileUrl: '',
+                            profileUrl: 'a',
                             profilePicUrl: '/images/electionProfilePic.png',
                             vard: 'Vard 1',
                             party: 'BJP',
