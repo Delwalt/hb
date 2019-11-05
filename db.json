@@ -2,7 +2,7 @@
    "seatsInfo": {
       "totalSeats": 60,
       "won": {
-         "bjp": 10,
+         "bjp": 1000,
          "cong": 5,
          "other": 2,
          "total": 17
