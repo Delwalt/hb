@@ -17,7 +17,7 @@
          },
          "candidates": [
             {
-               "name": "Tarun Khandelwal",
+               "name": "A",
                "profileUrl": "a",
                "profilePicUrl": "/images/electionProfilePic.png",
                "vard": "Vard 1",
@@ -26,7 +26,7 @@
                "star": true
             },
             {
-               "name": "Khandelwal",
+               "name": "B",
                "profileUrl": "a",
                "profilePicUrl": "/images/electionProfilePic.png",
                "vard": "Vard 1",
@@ -44,19 +44,19 @@
          },
          "candidates": [
             {
-               "name": "Tarun Khandelwal",
+               "name": "C",
                "profileUrl": "a",
                "profilePicUrl": "/images/electionProfilePic.png",
-               "vard": "Vard 1",
+               "vard": "Vard 2",
                "party": "BJP",
                "result": "WON",
                "star": true
             },
             {
-               "name": "Khandelwal",
+               "name": "D",
                "profileUrl": "a",
                "profilePicUrl": "/images/electionProfilePic.png",
-               "vard": "Vard 1",
+               "vard": "Vard 2",
                "party": "BJP",
                "result": "WON",
                "star": false
@@ -66,7 +66,7 @@
                "name": "Lorem",
                "profileUrl": "a",
                "profilePicUrl": "/images/electionProfilePic.png",
-               "vard": "Vard 1",
+               "vard": "Vard 2",
                "party": "BJP",
                "result": "LOST",
                "star": false
