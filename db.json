@@ -2,7 +2,7 @@
    "seatsInfo": {
       "totalSeats": 60,
       "won": {
-         "bjp": 1000,
+         "bjp": 5000,
          "cong": 5,
          "other": 2,
          "total": 17
@@ -22,7 +22,7 @@
                "profilePicUrl": "/images/electionProfilePic.png",
                "vard": "Vard 1",
                "party": "BJP",
-               "result": "LOST",
+               "result": "WON",
                "star": true
             },
             {
